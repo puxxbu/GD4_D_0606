@@ -16,7 +16,7 @@
 <nav class="navbar navbar-dark bg-dark fixed-top">
     <div class="container">
         <!-- Nama : nama panggilan kalian -->
-        <a class="navbar-brand fw-bold" href="/GD4_D_0606">PHP - Benidiktus Valerino Gozen</a>
+        <a class="navbar-brand fw-bold" href="/GD4_D_0606">PHP - Vano</a>
         <div class="d-flex justify-content-end">
             <button class="btn btn-primary me-2" type="button">
                 <a class="text-light" style="text-decoration: none"

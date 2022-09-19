@@ -14,11 +14,11 @@
     <body>
         <nav class="navbar navbar-dark bg-dark fixed-top">
             <div class="container">
-                <a class="navbar-brand fw-bold" href="/gd4_x_yyyy">PHP - Benidiktus Valerino Gozen</a>
+                <a class="navbar-brand fw-bold" href="/gd4_x_yyyy">PHP - Vano</a>
             </div>
         </nav>
         <div class="bg bg-light text-dark">
-            <div class="container min-vh-100 d-flex align-items-center justify-contentcenter">
+            <div class="container min-vh-100 mt-5 d-flex align-items-center justify-content-center">
                 <div class="card text-white bg-dark ma-5 shadow" style="min-width:25rem;">
                     <div class="card-header fw-bold">Login</div>
                         <div class="card-body">

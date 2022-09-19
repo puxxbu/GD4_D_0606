@@ -15,11 +15,11 @@
 <nav class="navbar navbar-dark bg-dark fixed-top">
     <div class="container">
         <!-- Nama : nama panggilan kalian -->
-        <a class="navbar-brand fw-bold" href="/GD4_D_0606">PHP - Benidiktus Valerino Gozen</a>
+        <a class="navbar-brand fw-bold" href="/GD4_D_0606">PHP - Vano</a>
     </div>
 </nav>
 <div class="bg bg-light text-dark">
-    <div class="container min-vh-100 mt-5 d-flex align-items-center justifycontent-center">
+    <div class="container min-vh-100 mt-5 d-flex align-items-center justify-content-center">
         <div class="card text-white bg-dark ma-5 shadow " style="min-width:25rem;">
             <div class="card-header fw-bold">Register</div>
             <div class="card-body">
